@@ -1,2 +1,7 @@
 # java-dsa-practice
-Learning data structures and algorithms in java.
+This repository contains my practice of Data Structures and Algorithms in JAVA.
+
+Topics covered:
+- Arrays
+- Strings
+- (more coming)
